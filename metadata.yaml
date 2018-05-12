@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25162'
     url: http://www.gutenberg.org/2009/agents/25162
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22179#Old-Rail-Fence-CornersThe-A.-B.-C-s.-of-Minnesota-History
 gutenberg_issued: '2007-07-30'
 gutenberg_type: Text
 identifiers:
